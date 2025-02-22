@@ -74,8 +74,8 @@ author:
   #  - label: "LinkedIn"
   #    icon: "fab fa-fw fa-linkedin"
   #    url: "https://www.linkedin.com/in/동환-김-9560232a5/"
-    -label: "Seoul, South Korea"
-     icon: "fas fa-map-marker-alt"
+    - label: "Seoul, South Korea"
+      icon: "fas fa-map-marker-alt"
 
 footer:
   links:

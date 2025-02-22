@@ -71,9 +71,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/d0ngfann__/"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/동환-김-9560232a5/"
+  #  - label: "LinkedIn"
+  #    icon: "fab fa-fw fa-linkedin"
+  #    url: "https://www.linkedin.com/in/동환-김-9560232a5/"
 
 footer:
   links:

@@ -1,0 +1,23 @@
+---
+title: "블로그 드가자!!"
+last_modified_at: 2025-02-22T22:47:00+09:00
+categories:
+  - 일상
+tags:
+  - 일상
+  - 블로그
+  - 시작
+---
+
+***드디어 블로그를 완성했습니다!!!*** 
+네이버나 티스토리보다는 뭔가 좀 학술적인 분위기, 그리고 전세계 사람들이 사용한다는 점에서 깃허브 페이지로 블로그를 만들어보고 싶었다.
+사실 그렇게 어려운 건 아니었지만 깃허브를 사용해서 무언가를 해본다는 게 처음있는 일이라 3일정도 이것저것 시도하느라 고생을 좀 한 것 같다.
+블로그 테마도 여러 번 바꾸다 결국에는 모두 난관에 봉착해 가장 많은 사용자가 있는 Minimal Mistakes 테마를 사용하게 되었다.
+
+다른 유명하지 테마와 비교할 때 이 테마는 ChatGPT 에 물어보면 관련 내용이 잘 나오고 특히 유트브에서 아래의 동영상을 보고 천천히 따라하니 잘 되었다.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pof342wGt78?si=uG0sBhfPEp3SFWof" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+이게 나름 최근 올라온 동영상이라 사용하는 버전도 동일해서 더 편하게 할 수 있었던 것 같다
+
+동영상을 보면서 따라한 이후에도 구성이나 동작원리 등을 좀 살피니 이제 대충은 어떻게 돌아가는 지도 알 것 같고, 댓글 기능도 giscus 로 넣으니 제법 블로그스러워졌다. 
+
+앞으로 공부한 것이나 일상 등에 대해서 이것저것 올려볼 예정이다. 

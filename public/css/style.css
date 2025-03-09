@@ -1,6 +1,7 @@
 @import url(//fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
 @import url('https://fonts.googleapis.com/css?family=Gelasio|Kulim+Park|Nanum+Myeongjo|Nanum+Gothic|Noto+Sans|Noto+Sans+KR|Roboto&display=swap');
 @import url(syntax/monokai.css);
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
 
 :root {
   --blue: #007bff;
@@ -49,7 +50,7 @@ body {
 	height: 100%;
 	margin: 0;
 	padding: 0;
-	font-family: 'Gelasio', 'Nanum Myeongjo', serif;
+	font-family: 'Playfair Display', 'Nanum Myeongjo', serif;
 	color: #2c3e50;
 }
 

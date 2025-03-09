@@ -8,3 +8,11 @@
   font-family: 'Playfair Display', sans-serif;
   /* 필요시 폰트 크기나 다른 스타일을 추가할 수도 있습니다 */
 }
+
+/* 로고 영역 아이콘 스타일 */
+.sidebar-brand i {
+  font-size: 2rem;       /* 아이콘 크기 */
+  margin-right: 0.5rem;  /* 아이콘과 텍스트 간 간격 */
+  color: #2c3e50;        /* 아이콘 색상 */
+  vertical-align: middle;
+}

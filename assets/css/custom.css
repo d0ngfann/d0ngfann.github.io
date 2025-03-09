@@ -3,3 +3,8 @@
   font-family: 'Playfair Display', sans-serif; /* 기본 글씨체 설정 */
   font-weight: bold;          /* 글씨 두께 설정 */
 }
+
+.sidebar-header .lead {
+  font-family: 'Playfair Display', sans-serif;
+  /* 필요시 폰트 크기나 다른 스타일을 추가할 수도 있습니다 */
+}

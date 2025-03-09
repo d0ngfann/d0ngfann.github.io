@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Gelasio|Kulim+Park|Nanum+Myeongjo|Nanum+Gothic|Noto+Sans|Noto+Sans+KR|Roboto&display=swap');
 @import url(syntax/monokai.css);
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR&display=swap');
 
 :root {
   --blue: #007bff;
@@ -30,8 +31,8 @@
   --breakpoint-md: 768px;
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
-  --font-family-sans-serif: "Roboto", "Nanum Gothic";
-  --font-family-serif: "Nanum Myeongjo";
+  --font-family-sans-serif: "Roboto", "Noto+Sans+KR";
+  --font-family-serif: "Noto+Sans+KR";
 }
 
 * {
@@ -50,7 +51,7 @@ body {
 	height: 100%;
 	margin: 0;
 	padding: 0;
-	font-family: 'Playfair Display', 'Nanum Myeongjo', serif;
+	font-family: 'Playfair Display', 'Noto+Sans+KR', serif;
 	color: #2c3e50;
 }
 
@@ -114,7 +115,7 @@ code {
 
 .sidebar-brand > a {
 	font-size: 300%;
-	font-family: 'Gelasio';
+	font-family: 'Playfair Display';
 	color: #fff;
 }
 

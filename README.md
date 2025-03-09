@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to DH Kim's Blog
+title: About me
 permalink: /about/
 ---
 

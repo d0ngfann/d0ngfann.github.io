@@ -5,7 +5,7 @@ remote_theme: hydecorp/hydejack@v9
 title: d0ngfann
 tagline: Welcome to my blog
 description: >-
-  개인 블로그 & 포트폴리오
+  Personal Blog & Portfolio
 
 url: "https://d0ngfann.github.io"
 baseurl: ""
@@ -15,7 +15,7 @@ author:
   name: d0ngfann
   email: ""
   about: |
-    안녕하세요. 개인 블로그입니다.
+    Welcome to my personal blog.
 
 # Menu
 menu:

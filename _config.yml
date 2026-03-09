@@ -35,6 +35,8 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-include-cache
+  - jekyll-remote-theme
 
 # Theme Settings
 accent_color: rgb(79,177,186)

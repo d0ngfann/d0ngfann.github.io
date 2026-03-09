@@ -1,0 +1,61 @@
+# Hydejack Theme
+remote_theme: hydecorp/hydejack@v9
+
+# Site Settings
+title: d0ngfann
+tagline: Welcome to my blog
+description: >-
+  개인 블로그 & 포트폴리오
+
+url: "https://d0ngfann.github.io"
+baseurl: ""
+
+# Author
+author:
+  name: d0ngfann
+  email: ""
+  about: |
+    안녕하세요. 개인 블로그입니다.
+
+# Menu
+menu:
+  - title: Blog
+    url: /blog/
+  - title: About
+    url: /about/
+
+# Pagination
+paginate: 10
+paginate_path: "/blog/page-:num/"
+
+# Plugins
+plugins:
+  - jekyll-default-layout
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Theme Settings
+accent_color: rgb(79,177,186)
+accent_image: /assets/img/sidebar-bg.jpg
+theme_color: rgb(25,55,71)
+
+# Dark mode
+hydejack:
+  dark_mode:
+    dynamic: true
+    sunrise: 6
+    sunset: 18
+  no_hierarchical_headlines: false
+
+# Markdown
+kramdown:
+  math_engine: null
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+
+# Build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md

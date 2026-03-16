@@ -21,6 +21,14 @@ author:
 menu:
   - title: Blog
     url: /blog/
+  - title: Projects
+    url: /projects/
+  - title: TIL
+    url: /til/
+  - title: Review
+    url: /review/
+  - title: Resume
+    url: /resume/
   - title: About
     url: /about/
 
@@ -61,3 +69,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - CLAUDE.md

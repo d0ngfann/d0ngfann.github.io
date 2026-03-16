@@ -10,6 +10,9 @@ description: >-
 url: "https://d0ngfann.github.io"
 baseurl: ""
 
+# Google Search Console
+google_site_verification: zbwnoQ_W3apZ6O0a98h1iEia_BRaoWq_c4vOGSoX534
+
 # Author
 author:
   name: d0ngfann

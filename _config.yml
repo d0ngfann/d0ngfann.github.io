@@ -35,6 +35,9 @@ menu:
   - title: About
     url: /about/
 
+# Permalinks
+permalink: /:categories/:year/:month/:day/:title/
+
 # Pagination
 paginate: 10
 paginate_path: "/blog/page-:num/"

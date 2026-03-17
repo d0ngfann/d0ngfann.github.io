@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GRE Math Subject Test 전체 자료 모음"
+title: "GRE Math Subject Test 전체 자료 모음(Claude Research)"
 date: 2026-03-16
 categories: [blog]
 tags: [GRE, math, resources, grad-school]

@@ -1,5 +1,26 @@
 ---
-layout: blog
+layout: page
 title: Blog
 permalink: /blog/
 ---
+
+{% assign blog_posts = site.posts | where_exp: "post", "post.categories contains 'blog'" %}
+{% for post in blog_posts %}
+<article class="page-listing">
+  <h2 class="h3" style="margin-bottom: 0.25em;">
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+  </h2>
+  <p style="color: gray; margin-bottom: 0.5em;">
+    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d %b %Y" }}</time>
+  </p>
+  {% if post.description %}
+    <p>{{ post.description }}</p>
+  {% elsif post.excerpt %}
+    <p>{{ post.excerpt | strip_html | truncatewords: 40 }}</p>
+  {% endif %}
+</article>
+{% endfor %}
+
+{% if blog_posts.size == 0 %}
+<p>No posts yet.</p>
+{% endif %}
